@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.nbi
+*.nbc
+*.egg-info/
+build/
+dist/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Tests and tools
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+.ruff_cache/
+
+# Run output (keep the folder)
+results/*
+!results/.gitkeep
+
+# Binaries and archives
+*.so
+*.dll
+*.exe
+*.zip
+*.gz
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
