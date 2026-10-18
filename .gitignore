@@ -30,6 +30,9 @@ results/*
 *.zip
 *.gz
 
+*.png
+*.csv
+
 # LaTeX build files
 *.aux
 *.log
